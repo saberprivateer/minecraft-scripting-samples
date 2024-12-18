@@ -1,40 +1,18 @@
 {
   "format_version": 2,
   "header": {
-    "name": "Cotta resource pack",
-    "description": "Cotta resource pack description",
-    "uuid": "f0cc5ac5-24ff-40b1-870b-77b7730c3f3f",
-    "version": [
-      1,
-      0,
-      0
-    ],
-    "min_engine_version": [
-      1,
-      20,
-      30
-    ]
+    "name": "Diamond Tree Resource Pack",
+    "description": "Diamond Tree Resource Pack Description",
+    "uuid": "fcc36b33-9c58-406e-a2d5-172530c88858",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 30]
   },
   "modules": [
     {
-      "description": "Cotta Resource Pack",
+      "description": "Diamond Tree Resource Pack",
       "type": "resources",
-      "uuid": "0c6c678e-367d-402a-80a0-53847181cd16",
-      "version": [
-        1,
-        0,
-        0
-      ]
-    }
-  ],
-  "dependencies": [
-    {
-      "uuid": "79587552-f454-4cee-855e-652b7675c507",
-      "version": [
-        1,
-        0,
-        0
-      ]
+      "uuid": "fd7b4793-7bd3-4fa7-8aa0-da1ee633ed72",
+      "version": [1, 0, 0]
     }
   ]
 }

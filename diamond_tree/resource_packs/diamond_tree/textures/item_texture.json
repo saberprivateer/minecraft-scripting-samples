@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "Diamond Tree Resource Pack",
+  "texture_name": "designer:diamond_seed",
+  "texture_data": {
+    "diamond_seed": {
+      "textures": "textures/items/goo"
+    }
+  }
+}
